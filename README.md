@@ -41,7 +41,7 @@ The dataset includes the following key attributes:
 - Specific age groups and genders show higher conversion potential
 
 ## Demo 
-https://1drv.ms/v/c/39eacea4e9616546/IQDycz4UnmsNS7_TJR0XsqDgAYE-FlH8ZYOaKUlNRVi38bc?e=g3JF12
+https://1drv.ms/v/c/39eacea4e9616546/IQDwPApy-nFaQIn15G81NuZhAQgqNm9a5O_e63b7XG68VRA?e=QSKtGz
 
 ## Conclusion
 This project demonstrates practical marketing analytics skills using Power BI, including KPI creation, DAX calculations, campaign performance evaluation, and interactive dashboard storytelling.
