@@ -35,13 +35,13 @@ The dataset includes the following key attributes:
 
 ---
 ## Key Insights
-Certain campaigns deliver high conversions with relatively lower spend, indicating better efficiency
-Higher ad spend does not always guarantee higher ROI
-Platform performance varies significantly, highlighting the importance of channel optimization
-Specific age groups and genders show higher conversion potential
+- Certain campaigns deliver high conversions with relatively lower spend, indicating better efficiency
+- Higher ad spend does not always guarantee higher ROI
+- Platform performance varies significantly, highlighting the importance of channel optimization
+- Specific age groups and genders show higher conversion potential
 
 ## Demo 
-
+https://1drv.ms/v/c/39eacea4e9616546/IQDycz4UnmsNS7_TJR0XsqDgAYE-FlH8ZYOaKUlNRVi38bc?e=g3JF12
 
 ## Conclusion
 This project demonstrates practical marketing analytics skills using Power BI, including KPI creation, DAX calculations, campaign performance evaluation, and interactive dashboard storytelling.
